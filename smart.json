@@ -1,0 +1,9 @@
+{
+	"name": "bafa",
+	"description": "latest versions of Bootstrap, Animate.css, and Font-Awesome, packaged for Meteor",
+	"homepage": "https://github.com/jackp/BAFA",
+	"author": "Jack Parker",
+	"version": "0.1.0",
+	"git": "https://github.com/jackp/BAFA.git",
+	"packages": {}
+}
