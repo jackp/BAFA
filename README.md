@@ -1,4 +1,5 @@
-# BAFA - latest versions of Bootstrap, Animate.css, and Font-Awesome, packaged for Meteor
+BAFA - latest versions of Bootstrap, Animate.css, and Font-Awesome, packaged for Meteor
+###
 
 ## How to install
 1. `npm install -g meteorite` (if not already installed)
