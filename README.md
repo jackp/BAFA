@@ -9,4 +9,4 @@ BAFA - latest versions of Bootstrap, Animate.css, and Font-Awesome, packaged for
 ## Documentation
 * [Bootstrap 2.2.2](http://twitter.github.com/bootstrap/)
 * [Animate.css](http://daneden.me/animate/)
-* [Font-Awesome 2.0](http://fortawesome.github.com/Font-Awesome/)
+* [Font-Awesome 3.0](http://fortawesome.github.com/Font-Awesome/)
