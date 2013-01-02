@@ -8,7 +8,7 @@ Package.on_use(function(api){
 		'lib/bootstrap-2.2.2/bootstrap.min.css',
 		'lib/bootstrap-2.2.2/bootstrap.min.js',
 		'lib/font-awesome-3.0/font/fontawesome-webfont.eot',
-		'lib/font-awesome-3.0/font/fontawesome-webfont.otf',
+		'lib/font-awesome-3.0/font/FontAwesome.otf',
 		'lib/font-awesome-3.0/font/fontawesome-webfont.ttf',
 		'lib/font-awesome-3.0/font/fontawesome-webfont.woff',
 		'lib/font-awesome-3.0/font-awesome.css',
