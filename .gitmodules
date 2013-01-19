@@ -1,3 +1,6 @@
 [submodule "lib/font-awesome-3.0.2"]
 	path = lib/font-awesome-3.0.2
 	url = https://github.com/FortAwesome/Font-Awesome.git
+[submodule "lib/animate.css"]
+	path = lib/animate.css
+	url = https://github.com/daneden/animate.css.git
