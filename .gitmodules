@@ -1,0 +1,3 @@
+[submodule "lib/font-awesome-3.0.2"]
+	path = lib/font-awesome-3.0.2
+	url = https://github.com/FortAwesome/Font-Awesome.git
